@@ -56,28 +56,36 @@ for heading in "${readme_headings[@]}"; do
   fi
 done
 
-if ! awk '
-  function strip_comments(line) {
-    gsub(/<!--[^>]*-->/, "", line)
-    return line
-  }
-  /^## Cruising guides$/ { in_section=1; next }
-  /^## / && in_section { exit }
-  in_section {
-    line = strip_comments($0)
-    if (line ~ /[[:alnum:]]/ &&
-        line ~ /\[Germany\]\(docs\/cruising-guides\/germany\.md\)/ &&
-        line ~ /\[Croatia\]\(docs\/cruising-guides\/croatia\.md\)/ &&
-        line ~ /\[Greece\]\(docs\/cruising-guides\/greece\.md\)/ &&
-        line ~ /\[All cruising guides\]\(docs\/cruising-guides\/README\.md\)/) {
-      found=1
+visible_cruising_guides_section="$(
+  awk '
+    {
+      line = $0
+      while (1) {
+        if (in_comment) {
+          if (line ~ /-->/) {
+            sub(/^.*-->/, "", line)
+            in_comment = 0
+          } else {
+            line = ""
+            break
+          }
+        } else if (line ~ /<!--/) {
+          if (line ~ /<!--.*-->/) {
+            gsub(/<!--.*-->/, "", line)
+          } else {
+            sub(/<!--.*/, "", line)
+            in_comment = 1
+          }
+        } else {
+          break
+        }
+      }
     }
-  }
-  END { exit !found }
-' README.md; then
-  echo "Missing README cruising guides scaffold links" >&2
-  exit 1
-fi
+    /^## Cruising guides$/ { in_section=1; next }
+    /^## / && in_section { exit }
+    in_section && line ~ /[^[:space:]]/ { print line }
+  ' README.md
+)"
 
 if ! grep -qFx -- '# Cruising guides' docs/cruising-guides/README.md; then
   echo "Missing guide heading: # Cruising guides" >&2
@@ -132,8 +140,8 @@ required_readme_links=(
 )
 
 for pattern in "${required_readme_links[@]}"; do
-  if ! grep -Eq -- "$pattern" README.md; then
-    echo "Missing README link matching: $pattern" >&2
+  if ! printf '%s\n' "$visible_cruising_guides_section" | grep -Eq -- "$pattern"; then
+    echo "Missing visible README link matching in Cruising guides section: $pattern" >&2
     exit 1
   fi
 done
