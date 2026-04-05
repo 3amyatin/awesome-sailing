@@ -18,24 +18,29 @@ for file in "${required_files[@]}"; do
   fi
 done
 
-if ! grep -qFx '## Start Here' README.md; then
-  echo "Missing README heading: ## Start Here" >&2
-  exit 1
-fi
+required_readme_links=(
+  "- [Germany](docs/cruising-guides/germany.md)"
+  "- [Croatia](docs/cruising-guides/croatia.md)"
+  "- [Greece](docs/cruising-guides/greece.md)"
+  "- [All cruising guides](docs/cruising-guides/README.md)"
+)
 
-if ! grep -qFx '## Cruising guides' README.md; then
-  echo "Missing README heading: ## Cruising guides" >&2
-  exit 1
-fi
+for link in "${required_readme_links[@]}"; do
+  if ! grep -qF -- "$link" README.md; then
+    echo "Missing README link: $link" >&2
+    exit 1
+  fi
+done
 
-if ! grep -qFx '# Cruising guides' docs/cruising-guides/README.md; then
-  echo "Missing guide heading: # Cruising guides" >&2
-  exit 1
-fi
+required_guide_links=(
+  "- [Germany guide](germany.md)"
+  "- [Croatia guide](croatia.md)"
+  "- [Greece guide](greece.md)"
+)
 
-for heading in '## Germany' '## Croatia' '## Greece'; do
-  if ! grep -qFx "$heading" docs/cruising-guides/README.md; then
-    echo "Missing guide heading: $heading" >&2
+for link in "${required_guide_links[@]}"; do
+  if ! grep -qF -- "$link" docs/cruising-guides/README.md; then
+    echo "Missing guide link: $link" >&2
     exit 1
   fi
 done
