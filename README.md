@@ -19,6 +19,8 @@ The list is intentionally being published in stages: the foundation sections bel
 
 ## Education and certificates
 
+- [RYA courses and qualifications](https://www.rya.org.uk/training) - Major course and certification system with course finder. 🇬🇧
+- [DSV Segeln lernen](https://www.dsv.org/segeln/segeln-lernen/) - Learn-to-sail, schools, and licence guidance from Germany's sailing federation. 🇩🇪
 - [World Sailing Race Officials Education](https://www.sailing.org/our-sport/race-officals/education/education-for-race-officers/) - Official education path for race management and officiating.
 - [Jon Emmett Sailing](https://jonemmettsailing.com/) - Coaching articles, extracts, and training resources from a top racing coach.
 
@@ -29,6 +31,7 @@ The list is intentionally being published in stages: the foundation sections bel
 
 ## Regattas
 
+- [Manage2Sail](https://manage2sail.com/) - Widely used regatta calendar, noticeboard, and registration platform.
 - [America's Cup](https://www.americascup.com/) - Flagship international event with race news and official coverage.
 - [SAP Sailing](https://www.sapsailing.com/) - Public race archive and analytics platform for regatta tracking.
 
