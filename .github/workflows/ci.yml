@@ -7,6 +7,7 @@ on:
 jobs:
   verify:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Check out repository
@@ -21,14 +22,13 @@ jobs:
           node-version: "22"
 
       - name: Lint README
-        run: npx --yes awesome-lint README.md
+        run: npx --yes awesome-lint@2.2.3 README.md
 
       - name: Check README links
-        run: npx --yes markdown-link-check README.md
+        run: npx --yes markdown-link-check@3.14.2 README.md
 
       - name: Check cruising guide links
         run: |
-          npx --yes markdown-link-check docs/cruising-guides/README.md
-          npx --yes markdown-link-check docs/cruising-guides/germany.md
-          npx --yes markdown-link-check docs/cruising-guides/croatia.md
-          npx --yes markdown-link-check docs/cruising-guides/greece.md
+          for file in docs/cruising-guides/*.md; do
+            npx --yes markdown-link-check@3.14.2 "$file"
+          done
