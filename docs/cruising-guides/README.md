@@ -4,12 +4,12 @@ Concise practical cruising research pages for fast trip planning.
 
 ## Germany
 
-- Harbor and inland cruising notes.
+- [Germany guide](germany.md)
 
 ## Croatia
 
-- Seasonal anchorages and marina notes.
+- [Croatia guide](croatia.md)
 
 ## Greece
 
-- Island-hopping and weather notes.
+- [Greece guide](greece.md)
