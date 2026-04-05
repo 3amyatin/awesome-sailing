@@ -56,7 +56,7 @@ The list is intentionally being published in stages: the foundation sections bel
 ## Boat handling
 
 - [RYA Racing Scheme](https://www.rya.org.uk/network/professional-qualifications/racing-scheme/) - Progression framework covering boat-handling, speed, and strategy. 🇬🇧
-- [North U coaches](https://northu.com/about/coaches/) - Coaching network with practical focus on boat-handling, sail trim, and seamanship. 💳
+- [RYA Dinghy Seamanship Skills](https://www.rya.org.uk/training/courses/Dinghy-Seamanship-Skills-DSHIP) - Practical course page focused on manoeuvring, recovery, mooring, and handling skills afloat. 🇬🇧
 
 ## Sail trim
 
@@ -79,7 +79,6 @@ Cruising guides scaffold: [Germany](docs/cruising-guides/germany.md), [Croatia](
 - [PredictWind app](https://www.predictwind.com/apps/predictwind-app) - Official app page for PredictWind's mobile and onboard weather tooling. 💳
 - [Windy about](https://www.windy.com/about) - Official overview of Windy's weather platform and app ecosystem.
 - [XyGrib downloads](https://opengribs.org/en/downloads) - Official downloads page for the free GRIB viewer.
-- [Virtual Regatta](https://apps.apple.com/us/app/virtual-regatta/id387893495) - Major online sailing game and race simulator with offshore events.
 - [RRS Finckh](https://github.com/afds/rrs-finckh) - Open-source Racing Rules of Sailing review app.
 - [SAP Sailing Analytics](https://github.com/SAP/sailing-analytics) - Open-source analytics project behind SAP's public sailing archive.
 
