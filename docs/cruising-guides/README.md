@@ -5,12 +5,12 @@ These are initial scaffold links to stub guide pages.
 
 ## Germany
 
-- [Germany guide](germany.md) (initial scaffold guide)
+- [Germany guide](germany.md)
 
 ## Croatia
 
-- [Croatia guide](croatia.md) (initial scaffold guide)
+- [Croatia guide](croatia.md)
 
 ## Greece
 
-- [Greece guide](greece.md) (initial scaffold guide)
+- [Greece guide](greece.md)

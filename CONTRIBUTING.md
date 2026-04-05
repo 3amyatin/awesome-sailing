@@ -14,4 +14,4 @@ Private notes, internal docs, copyrighted mirrors, low-signal dumps, and marketi
 
 Treat Obsidian, Google Drive, and Workflowy as research inputs only; do not publish or mirror private content from them.
 
-When in doubt, ask for approval before adding an item.
+When in doubt, ask for approval before adding an item. A good approval path is to open a PR for review before adding it.

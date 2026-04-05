@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$repo_root"
+
 required_files=(
   .gitignore
   README.md
@@ -53,6 +56,11 @@ for heading in "${readme_headings[@]}"; do
   fi
 done
 
+if ! grep -qEq -- '^Cruising guides scaffold: \[Germany\]\(docs/cruising-guides/germany\.md\), \[Croatia\]\(docs/cruising-guides/croatia\.md\), \[Greece\]\(docs/cruising-guides/greece\.md\), and \[All cruising guides\]\(docs/cruising-guides/README\.md\)\.$' README.md; then
+  echo "Missing README cruising guides scaffold line" >&2
+  exit 1
+fi
+
 if ! grep -qFx -- '# Cruising guides' docs/cruising-guides/README.md; then
   echo "Missing guide heading: # Cruising guides" >&2
   exit 1
@@ -103,9 +111,9 @@ for pattern in "${required_readme_links[@]}"; do
 done
 
 required_guide_links=(
-  '\[Germany guide\]\(germany\.md\)'
-  '\[Croatia guide\]\(croatia\.md\)'
-  '\[Greece guide\]\(greece\.md\)'
+  '^- \[Germany guide\]\(germany\.md\)$'
+  '^- \[Croatia guide\]\(croatia\.md\)$'
+  '^- \[Greece guide\]\(greece\.md\)$'
 )
 
 for pattern in "${required_guide_links[@]}"; do
