@@ -43,6 +43,7 @@ The list is intentionally being published in stages: the foundation sections bel
 
 ## Safety
 
+- [MAIB reports](https://www.gov.uk/maib-reports) - Searchable accident investigation reports, including recreational sail incidents. 🇬🇧
 - [World Sailing Offshore Special Regulations](https://www.sailing.org/inside-world-sailing/rules-regulations/offshore-special-regulations/) - Official offshore safety baseline and related appendices.
 - [RYA Seven Common Senses for Safe Sailing](https://www.rya.org.uk/water-safety/seven-common-senses/) - Practical on-water safety guidance from the RYA. 🇬🇧
 
@@ -72,6 +73,10 @@ The list is intentionally being published in stages: the foundation sections bel
 Cruising guides scaffold: [Germany](docs/cruising-guides/germany.md), [Croatia](docs/cruising-guides/croatia.md), [Greece](docs/cruising-guides/greece.md), and [All cruising guides](docs/cruising-guides/README.md).
 
 ## Apps
+
+- [Virtual Regatta](https://apps.apple.com/us/app/virtual-regatta/id387893495) - Major online sailing game and race simulator with offshore events.
+- [RRS Finckh](https://github.com/afds/rrs-finckh) - Open-source Racing Rules of Sailing review app.
+- [SAP Sailing Analytics](https://github.com/SAP/sailing-analytics) - Open-source analytics project behind SAP's public sailing archive.
 
 ## Communities
 
