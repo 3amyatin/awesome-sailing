@@ -74,6 +74,11 @@ Cruising guides scaffold: [Germany](docs/cruising-guides/germany.md), [Croatia](
 
 ## Apps
 
+- [OpenCPN plugins](https://opencpn.org/OpenCPN/info/downloadplugins.html) - Official plugin directory for extending the open-source chartplotter.
+- [Signal K overview](https://signalk.org/overview/) - Official overview of the open marine data platform and server ecosystem.
+- [PredictWind app](https://www.predictwind.com/apps/predictwind-app) - Official app page for PredictWind's mobile and onboard weather tooling. 💳
+- [Windy about](https://www.windy.com/about) - Official overview of Windy's weather platform and app ecosystem.
+- [XyGrib downloads](https://opengribs.org/en/downloads) - Official downloads page for the free GRIB viewer.
 - [Virtual Regatta](https://apps.apple.com/us/app/virtual-regatta/id387893495) - Major online sailing game and race simulator with offshore events.
 - [RRS Finckh](https://github.com/afds/rrs-finckh) - Open-source Racing Rules of Sailing review app.
 - [SAP Sailing Analytics](https://github.com/SAP/sailing-analytics) - Open-source analytics project behind SAP's public sailing archive.
