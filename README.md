@@ -86,7 +86,7 @@ Cruising guides scaffold: [Germany](docs/cruising-guides/germany.md), [Croatia](
 
 - [BLAUWASSER.DE](https://www.blauwasser.de/) - German cruising and bluewater knowledge base. 🇩🇪
 - [YBW Forum](https://forums.ybw.com/) - Long-running UK boating and sailing forum. 🇬🇧
-- [Bavaria Owners Forum](https://www.bavariayacht.org/) - Active owner forum with practical sailing and maintenance discussion.
+- [Bavaria Owners Forum](https://www.bavariayacht.org/forum/) - Active owner forum with practical sailing and maintenance discussion.
 
 ## Movies
 
@@ -98,7 +98,7 @@ Cruising guides scaffold: [Germany](docs/cruising-guides/germany.md), [Croatia](
 
 ## Books
 
-- [Coach Yourself to Win / Be Your Own Sailing Coach](https://jonemmettsailing.com/buy_the_books.htm) - Jon Emmett's coaching book page. 💳
+- [The Annapolis Book of Seamanship](https://openlibrary.org/books/OL26919315M/The_Annapolis_book_of_seamanship) - Modern seamanship reference covering handling, navigation, and safety.
 - [Sailing Fitness and Training](https://openlibrary.org/books/OL37811548M/Sailing_Fitness_and_Training) - Public catalog entry for Michael Blackburn's training book.
-- [The Annapolis Book of Seamanship](https://openlibrary.org/books/OL26919315M) - Modern seamanship reference covering handling, navigation, and safety.
+- [Coach Yourself to Win / Be Your Own Sailing Coach](https://jonemmettsailing.com/buy_the_books.htm) - Jon Emmett's coaching book page. 💳
 - [Sailing Alone Around the World](https://www.gutenberg.org/files/6317/6317-h/6317-h.htm) - Joshua Slocum's public-domain solo-circumnavigation classic.
