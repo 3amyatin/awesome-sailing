@@ -57,14 +57,22 @@ for heading in "${readme_headings[@]}"; do
 done
 
 if ! awk '
+  function strip_comments(line) {
+    gsub(/<!--[^>]*-->/, "", line)
+    return line
+  }
   /^## Cruising guides$/ { in_section=1; next }
   /^## / && in_section { exit }
-  in_section &&
-    $0 !~ /^[[:space:]]*<!--/ &&
-    $0 ~ /\[Germany\]\(docs\/cruising-guides\/germany\.md\)/ &&
-    $0 ~ /\[Croatia\]\(docs\/cruising-guides\/croatia\.md\)/ &&
-    $0 ~ /\[Greece\]\(docs\/cruising-guides\/greece\.md\)/ &&
-    $0 ~ /\[All cruising guides\]\(docs\/cruising-guides\/README\.md\)/ { found=1 }
+  in_section {
+    line = strip_comments($0)
+    if (line ~ /[[:alnum:]]/ &&
+        line ~ /\[Germany\]\(docs\/cruising-guides\/germany\.md\)/ &&
+        line ~ /\[Croatia\]\(docs\/cruising-guides\/croatia\.md\)/ &&
+        line ~ /\[Greece\]\(docs\/cruising-guides\/greece\.md\)/ &&
+        line ~ /\[All cruising guides\]\(docs\/cruising-guides\/README\.md\)/) {
+      found=1
+    }
+  }
   END { exit !found }
 ' README.md; then
   echo "Missing README cruising guides scaffold links" >&2
@@ -79,6 +87,18 @@ fi
 for heading in '## Germany' '## Croatia' '## Greece'; do
   if ! grep -qFx -- "$heading" docs/cruising-guides/README.md; then
     echo "Missing guide heading: $heading" >&2
+    exit 1
+  fi
+done
+
+if ! grep -qFx -- '## Privacy rule' CONTRIBUTING.md; then
+  echo "Missing CONTRIBUTING heading: ## Privacy rule" >&2
+  exit 1
+fi
+
+for term in 'Obsidian' 'Google Drive' 'Workflowy'; do
+  if ! grep -qF -- "$term" CONTRIBUTING.md; then
+    echo "Missing CONTRIBUTING privacy term: $term" >&2
     exit 1
   fi
 done
