@@ -1,4 +1,4 @@
-# Germany guide
+# Germany
 
 Germany is most useful here as a practical cruising and sailing-reference page: federation rules, local paperwork, clubs, weather, and coastal planning links in one place.
 

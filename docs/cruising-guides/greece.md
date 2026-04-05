@@ -1,4 +1,4 @@
-# Greece guide
+# Greece
 
 Greece needs a practical guide focused on Ionian and Aegean trip planning, official references, weather, and reliable local sailing resources.
 

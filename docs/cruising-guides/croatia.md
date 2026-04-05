@@ -1,4 +1,4 @@
-# Croatia guide
+# Croatia
 
 Croatia is one of Europe's busiest charter and flotilla destinations, so this page should prioritize practical trip-planning, marina, weather, and paperwork resources.
 
