@@ -4,7 +4,7 @@
 
 Public sailing resources, short factual annotations, best resources first, English-first with non-English resources flagged clearly, and paid resources marked with `💳`.
 
-Example item: `- [Germany guide](docs/cruising-guides/germany.md)` with a short factual note.
+Example item: `- [Windy](https://www.windy.com/)` with a short factual note.
 
 ## What does not belong here
 

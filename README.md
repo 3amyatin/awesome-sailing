@@ -26,9 +26,9 @@ Awesome Sailing is a curated collection of sailing resources in English with ext
 
 ## Cruising guides
 
-- [Germany](docs/cruising-guides/germany.md) (initial scaffold)
-- [Croatia](docs/cruising-guides/croatia.md) (initial scaffold)
-- [Greece](docs/cruising-guides/greece.md) (initial scaffold)
+- [Germany](docs/cruising-guides/germany.md) (initial scaffold guide)
+- [Croatia](docs/cruising-guides/croatia.md) (initial scaffold guide)
+- [Greece](docs/cruising-guides/greece.md) (initial scaffold guide)
 - [All cruising guides](docs/cruising-guides/README.md)
 
 ## Apps
