@@ -37,15 +37,35 @@ The list is intentionally being published in stages: the foundation sections bel
 
 ## Weather
 
+- [PredictWind Weather Routing](https://www.predictwind.com/features/weather-routing) - Weather-routing and departure-planning tools for passage decisions. 💳
+- [Windy](https://www.windy.com/) - Fast weather visualization for route planning.
+- [XyGrib](https://opengribs.org/en/) - Free GRIB viewer with sailing relevance.
+
 ## Safety
+
+- [World Sailing Offshore Special Regulations](https://www.sailing.org/inside-world-sailing/rules-regulations/offshore-special-regulations/) - Official offshore safety baseline and related appendices.
+- [RYA Seven Common Senses for Safe Sailing](https://www.rya.org.uk/water-safety/seven-common-senses/) - Practical on-water safety guidance from the RYA. 🇬🇧
 
 ## Navigation
 
+- [OpenCPN downloads](https://opencpn.org/OpenCPN/info/downloadopencpn.html) - Official downloads and install page for the open-source chartplotter.
+- [Signal K](https://signalk.org/) - Open marine data standard and server ecosystem.
+- [Garmin Navionics marine cartography](https://www.garmin.com/en-US/c/marine-cartography/third-party-marine-maps/) - Popular marine charts and route-planning platform. 💳
+
 ## Boat handling
+
+- [RYA Racing Scheme](https://www.rya.org.uk/network/professional-qualifications/racing-scheme/) - Progression framework covering boat-handling, speed, and strategy. 🇬🇧
+- [North U coaches](https://northu.com/about/coaches/) - Coaching network with practical focus on boat-handling, sail trim, and seamanship. 💳
 
 ## Sail trim
 
+- [North U Sail Trim Simulator](https://northu.com/sailtrimsimulator) - Interactive tool for understanding upwind sail trim controls and tradeoffs. 💳
+- [North Sails: Let's Talk Sail Trim and Materials](https://www.northsails.com/blogs/north-sails-blog/lets-talk-sail-trim-and-materials) - Practical trim advice from a major sailmaker.
+
 ## Offshore
+
+- [Royal Ocean Racing Club](https://www.rorc.org/) - Major European offshore racing club with race programme and notices.
+- [World Sailing Speed Record Council](https://www.sailspeedrecords.com/) - Official record authority and offshore record archive.
 
 ## Cruising guides
 
