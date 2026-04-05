@@ -1,5 +1,7 @@
 # Awesome Sailing
 
+Awesome Sailing is a curated collection of sailing resources in English, with extra depth for Europe and Germany.
+
 ## Start Here
 
 ## Organizations

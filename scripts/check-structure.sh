@@ -10,7 +10,7 @@ required_files=(
 
 for file in "${required_files[@]}"; do
   if [[ ! -f "$file" ]]; then
-    echo "Missing required file: $file" >&2
+    echo "Missing file: $file" >&2
     exit 1
   fi
 done
