@@ -6,6 +6,9 @@ required_files=(
   CONTRIBUTING.md
   LICENSE
   docs/cruising-guides/README.md
+  docs/cruising-guides/germany.md
+  docs/cruising-guides/croatia.md
+  docs/cruising-guides/greece.md
 )
 
 for file in "${required_files[@]}"; do
