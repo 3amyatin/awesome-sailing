@@ -84,6 +84,21 @@ Cruising guides scaffold: [Germany](docs/cruising-guides/germany.md), [Croatia](
 
 ## Communities
 
+- [BLAUWASSER.DE](https://www.blauwasser.de/) - German cruising and bluewater knowledge base. 🇩🇪
+- [YBW Forum](https://forums.ybw.com/) - Long-running UK boating and sailing forum. 🇬🇧
+- [Bavaria Owners Forum](https://www.bavariayacht.org/) - Active owner forum with practical sailing and maintenance discussion.
+
 ## Movies
 
+- [Maiden](https://www.sonypictures.com/movies/maiden) - Documentary about Tracy Edwards and the first all-women Whitbread crew.
+- [Deep Water](https://www.pbs.org/independentlens/documentaries/deepwater/) - Documentary about Donald Crowhurst and the first Golden Globe Race.
+- [Chasing Bubbles](https://www.chasingbubbles.org/) - Documentary about Alex Rust's sailing journey.
+- [COYOTE: The Mike Plant Story](https://www.coyotedocumentary.com/) - Documentary about solo sailor Mike Plant.
+- [The Weekend Sailor](https://vimeo.com/ondemand/theweekendsailor2) - Documentary on Sayula II's Whitbread win. 💳
+
 ## Books
+
+- [Coach Yourself to Win / Be Your Own Sailing Coach](https://jonemmettsailing.com/buy_the_books.htm) - Jon Emmett's coaching book page. 💳
+- [Sailing Fitness and Training](https://openlibrary.org/books/OL37811548M/Sailing_Fitness_and_Training) - Public catalog entry for Michael Blackburn's training book.
+- [The Annapolis Book of Seamanship](https://openlibrary.org/books/OL26919315M) - Modern seamanship reference covering handling, navigation, and safety.
+- [Sailing Alone Around the World](https://www.gutenberg.org/files/6317/6317-h/6317-h.htm) - Joshua Slocum's public-domain solo-circumnavigation classic.
