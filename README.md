@@ -13,7 +13,7 @@ The list is intentionally being published in stages: the foundation sections bel
 
 ## Organizations
 
-- [World Sailing](https://www.sailing.org/) - Global governing body for the sport.
+- [World Sailing](https://www.sailing.org/inside-world-sailing/organisation/world-sailing/) - Official organization page for the sport's global governing body.
 - [Royal Yachting Association](https://www.rya.org.uk/Home/) - Major sailing authority and education provider. 🇬🇧
 - [Deutscher Segler-Verband](https://www.dsv.org/) - Germany's national sailing federation. 🇩🇪
 
