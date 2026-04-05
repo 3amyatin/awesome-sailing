@@ -5,13 +5,31 @@ The empty sections below are an intentional public scaffold and will be filled a
 
 ## Start Here
 
+- [RYA](https://www.rya.org.uk/) - Clear English-language entry point for learning, cruising, and racing.
+- [Noonsite](https://www.noonsite.com/) - Practical cruising information and paperwork guidance by destination.
+- [OpenCPN](https://opencpn.org/) - Widely used open-source navigation software.
+- [PredictWind](https://www.predictwind.com/) - Strong weather and routing tool. 💳
+
 ## Organizations
+
+- [World Sailing](https://www.sailing.org/) - Global governing body for the sport.
+- [Royal Yachting Association](https://www.rya.org.uk/Home/) - Major sailing authority and education provider. 🇬🇧
+- [Deutscher Segler-Verband](https://www.dsv.org/) - Germany's national sailing federation. 🇩🇪
 
 ## Education and certificates
 
+- [World Sailing Race Officials Education](https://www.sailing.org/our-sport/race-officals/education/education-for-race-officers/) - Official education path for race management and officiating.
+- [Jon Emmett Sailing](https://jonemmettsailing.com/) - Coaching articles, extracts, and training resources from a top racing coach.
+
 ## Racing Rules of Sailing (RRS)
 
+- [World Sailing Racing Rules](https://www.sailing.org/inside-worldsailing/rules-regulations/racingrules/) - Official home for the current Racing Rules of Sailing.
+- [RacingRulesOfSailing.org](https://www.racingrulesofsailing.org/) - Searchable rules reference and cases index.
+
 ## Regattas
+
+- [America's Cup](https://www.americascup.com/) - Flagship international event with race news and official coverage.
+- [SAP Sailing](https://www.sapsailing.com/) - Public race archive and analytics platform for regatta tracking.
 
 ## Weather
 
