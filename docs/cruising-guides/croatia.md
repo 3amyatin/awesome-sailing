@@ -12,7 +12,7 @@ Croatia is one of Europe's busiest charter and flotilla destinations, so this pa
 
 ## Ports and marinas
 - [ACI Marinas](https://aci-marinas.com/) - Major marina network with berth, service, and destination information.
-- [eNautika](https://enautika.pomorstvo.hr/) - Useful for checking official maritime destination and administrative context alongside marina planning.
+- No strong public port directory is in the approved set here, so ACI Marinas is the practical marina starting point.
 
 ## Weather
 - [Meteo.hr Adriatic forecast](https://meteo.hr/prognoze_e.php?param=jadran&section=prognoze_spec) - Official Adriatic marine forecast page.
@@ -20,16 +20,15 @@ Croatia is one of Europe's busiest charter and flotilla destinations, so this pa
 ## Rules and paperwork
 - [eNautika](https://enautika.pomorstvo.hr/) - Start here for Croatian nautical administration and trip paperwork.
 - [Croatia.hr nautical fee leaflet](https://croatia.hr/cmsmedia/Documents/Nautical/TP_za_nauticare/Novi_letak/HTZ-2022_letak_nautika-pristojba_QR%20code_EN.pdf) - Practical official leaflet for the nautical fee and related visitor guidance.
-- [Noonsite - Croatia](https://www.noonsite.com/place/croatia/) - Destination guide with cruising notes and arrival context.
+- Noonsite is useful background reading, but it fits better in the references section than in paperwork.
 
 ## Charter and local operators
 - [ACI Marinas](https://aci-marinas.com/) - Good first stop for marina-based charter and services across the coast.
-- [Noonsite - Croatia](https://www.noonsite.com/place/croatia/) - Helpful for understanding the local cruising and charter environment.
+- Noonsite is useful background reading for charter planning, but it is not a local operator directory.
 
 ## Local apps and maps
-- [eNautika](https://enautika.pomorstvo.hr/) - Bookmark the official portal for planning and administrative checks.
 - [Meteo.hr Adriatic forecast](https://meteo.hr/prognoze_e.php?param=jadran&section=prognoze_spec) - Weather reference that pairs well with route and anchorage planning.
-- [ACI Marinas](https://aci-marinas.com/) - Useful for marina locations and service planning.
+- eNautika is the better browser bookmark than a separate app entry for official planning and administrative checks.
 
 ## Reading and references
 - [Noonsite - Croatia](https://www.noonsite.com/place/croatia/) - Practical destination overview and entry notes.
