@@ -1,6 +1,7 @@
 # Awesome Sailing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Awesome Sailing is an early scaffold for an in-progress awesome list of sailing resources in English with extra depth for Europe and Germany, ordered best first, with `💳` marking paid resources and country flags used only when they add useful signal.
+The empty sections below are an intentional public scaffold and will be filled as curation proceeds.
 
 ## Start Here
 
