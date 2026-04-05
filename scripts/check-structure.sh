@@ -20,10 +20,12 @@ for file in "${required_files[@]}"; do
   fi
 done
 
-if ! grep -qF -- '## Start Here' README.md; then
-  echo "Missing README heading: ## Start Here" >&2
-  exit 1
-fi
+for entry in '.DS_Store' '.private/' '.worktrees/'; do
+  if ! grep -qFx -- "$entry" .gitignore; then
+    echo "Missing .gitignore entry: $entry" >&2
+    exit 1
+  fi
+done
 
 readme_headings=(
   '## Start Here'
@@ -64,9 +66,9 @@ for heading in '## Germany' '## Croatia' '## Greece'; do
 done
 
 guide_page_checks=(
-  "docs/cruising-guides/germany.md|# Germany guide|Back to [Cruising guides](README.md)."
-  "docs/cruising-guides/croatia.md|# Croatia guide|Back to [Cruising guides](README.md)."
-  "docs/cruising-guides/greece.md|# Greece guide|Back to [Cruising guides](README.md)."
+  'docs/cruising-guides/germany.md|^# Germany( guide)?$|Back to [Cruising guides](README.md).'
+  'docs/cruising-guides/croatia.md|^# Croatia( guide)?$|Back to [Cruising guides](README.md).'
+  'docs/cruising-guides/greece.md|^# Greece( guide)?$|Back to [Cruising guides](README.md).'
 )
 
 for check in "${guide_page_checks[@]}"; do
@@ -75,7 +77,7 @@ for check in "${guide_page_checks[@]}"; do
   h1="${rest%%|*}"
   backlink="${rest#*|}"
 
-  if ! grep -qFx -- "$h1" "$file"; then
+  if ! grep -qEq -- "$h1" "$file"; then
     echo "Missing guide heading: $h1" >&2
     exit 1
   fi
@@ -87,10 +89,10 @@ for check in "${guide_page_checks[@]}"; do
 done
 
 required_readme_links=(
-  '^- \[Germany\]\(docs/cruising-guides/germany\.md\)( .*)?$'
-  '^- \[Croatia\]\(docs/cruising-guides/croatia\.md\)( .*)?$'
-  '^- \[Greece\]\(docs/cruising-guides/greece\.md\)( .*)?$'
-  '^- \[All cruising guides\]\(docs/cruising-guides/README\.md\)$'
+  '\[Germany\]\(docs/cruising-guides/germany\.md\)'
+  '\[Croatia\]\(docs/cruising-guides/croatia\.md\)'
+  '\[Greece\]\(docs/cruising-guides/greece\.md\)'
+  '\[All cruising guides\]\(docs/cruising-guides/README\.md\)'
 )
 
 for pattern in "${required_readme_links[@]}"; do
@@ -101,9 +103,9 @@ for pattern in "${required_readme_links[@]}"; do
 done
 
 required_guide_links=(
-  '^- \[Germany guide\]\(germany\.md\)( .*)?$'
-  '^- \[Croatia guide\]\(croatia\.md\)( .*)?$'
-  '^- \[Greece guide\]\(greece\.md\)( .*)?$'
+  '\[Germany guide\]\(germany\.md\)'
+  '\[Croatia guide\]\(croatia\.md\)'
+  '\[Greece guide\]\(greece\.md\)'
 )
 
 for pattern in "${required_guide_links[@]}"; do

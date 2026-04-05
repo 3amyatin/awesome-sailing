@@ -1,4 +1,4 @@
-# Awesome Sailing
+# Awesome Sailing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Awesome Sailing is a curated collection of sailing resources in English with extra depth for Europe and Germany, ordered best first, with `💳` marking paid resources and country flags used only when they add useful signal.
 
@@ -26,10 +26,7 @@ Awesome Sailing is a curated collection of sailing resources in English with ext
 
 ## Cruising guides
 
-- [Germany](docs/cruising-guides/germany.md) (initial scaffold guide)
-- [Croatia](docs/cruising-guides/croatia.md) (initial scaffold guide)
-- [Greece](docs/cruising-guides/greece.md) (initial scaffold guide)
-- [All cruising guides](docs/cruising-guides/README.md)
+Initial scaffold links to stub guide pages: [Germany](docs/cruising-guides/germany.md), [Croatia](docs/cruising-guides/croatia.md), [Greece](docs/cruising-guides/greece.md), and [All cruising guides](docs/cruising-guides/README.md).
 
 ## Apps
 
