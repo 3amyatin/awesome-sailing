@@ -1,10 +1,11 @@
 # Awesome Sailing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Awesome Sailing is an early scaffold for an in-progress awesome list of sailing resources in English with extra depth for Europe and Germany, ordered best first, with `💳` marking paid resources and country flags used only when they add useful signal.
-The empty sections below are an intentional public scaffold and will be filled as curation proceeds.
+The list is intentionally being published in stages: the foundation sections below are seeded now, and the remaining sections will be filled as curation proceeds.
 
 ## Start Here
 
+- [World Sailing](https://www.sailing.org/) - Global governing body with rules, classes, and offshore resources.
 - [RYA](https://www.rya.org.uk/) - Clear English-language entry point for learning, cruising, and racing.
 - [Noonsite](https://www.noonsite.com/) - Practical cruising information and paperwork guidance by destination.
 - [OpenCPN](https://opencpn.org/) - Widely used open-source navigation software.
@@ -24,7 +25,7 @@ The empty sections below are an intentional public scaffold and will be filled a
 ## Racing Rules of Sailing (RRS)
 
 - [World Sailing Racing Rules](https://www.sailing.org/inside-worldsailing/rules-regulations/racingrules/) - Official home for the current Racing Rules of Sailing.
-- [RacingRulesOfSailing.org](https://www.racingrulesofsailing.org/) - Searchable rules reference and cases index.
+- [RacingRulesOfSailing.org](https://www.racingrulesofsailing.org/) - Unofficial but widely used searchable rules reference and cases index.
 
 ## Regattas
 
