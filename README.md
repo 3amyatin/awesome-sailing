@@ -70,10 +70,7 @@ The list is intentionally being published in stages: the foundation sections bel
 
 ## Cruising guides
 
-- [Germany](docs/cruising-guides/germany.md) - Sailing and cruising references with a Germany focus.
-- [Croatia](docs/cruising-guides/croatia.md) - High-value references for one of Europe's busiest charter destinations.
-- [Greece](docs/cruising-guides/greece.md) - Public resources for Ionian, Aegean, and practical trip planning.
-- [All cruising guides](docs/cruising-guides/README.md) - Index of the cruising guides scaffold.
+Guides: [Germany](docs/cruising-guides/germany.md) for Germany-focused sailing and cruising references, [Croatia](docs/cruising-guides/croatia.md) for one of Europe's busiest charter destinations, [Greece](docs/cruising-guides/greece.md) for Ionian and Aegean trip planning, and [All cruising guides](docs/cruising-guides/README.md) for the index.
 
 ## Apps
 

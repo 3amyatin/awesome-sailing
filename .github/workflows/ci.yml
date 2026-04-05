@@ -1,0 +1,34 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Check repository structure
+        run: bash scripts/check-structure.sh
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Lint README
+        run: npx --yes awesome-lint README.md
+
+      - name: Check README links
+        run: npx --yes markdown-link-check README.md
+
+      - name: Check cruising guide links
+        run: |
+          npx --yes markdown-link-check docs/cruising-guides/README.md
+          npx --yes markdown-link-check docs/cruising-guides/germany.md
+          npx --yes markdown-link-check docs/cruising-guides/croatia.md
+          npx --yes markdown-link-check docs/cruising-guides/greece.md
