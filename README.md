@@ -1,7 +1,7 @@
 # Awesome Sailing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome Sailing is an early scaffold for an in-progress awesome list of sailing resources in English with extra depth for Europe and Germany, ordered best first, with `💳` marking paid resources and country flags used only when they add useful signal.
-The list is intentionally being published in stages: the foundation sections below are seeded now, and the remaining sections will be filled as curation proceeds.
+Awesome Sailing is a curated list of useful sailing resources in English with extra depth for Europe and Germany, ordered best first, with `💳` marking paid resources and country flags used only when they add useful signal.
+It covers racing, cruising, offshore sailing, weather, apps, books, films, and country-specific cruising guides.
 
 ## Start Here
 
@@ -23,6 +23,11 @@ The list is intentionally being published in stages: the foundation sections bel
 - [DSV Segeln lernen](https://www.dsv.org/segeln/segeln-lernen/) - Learn-to-sail, schools, and licence guidance from Germany's sailing federation. 🇩🇪
 - [World Sailing Race Officials Education](https://www.sailing.org/our-sport/race-officals/education/education-for-race-officers/) - Official education path for race management and officiating.
 - [Jon Emmett Sailing](https://jonemmettsailing.com/) - Coaching articles, extracts, and training resources from a top racing coach.
+- [Speed & Smarts](https://www.speedandsmarts.com/) - High-signal racing education, tactics, and rules material from Dave Perry.
+- [NauticEd](https://www.nauticed.org/) - Established online sailing education and certification platform. 💳
+- [Full Time Sailor](https://fulltimesailor.com/) - Practical cruising and liveaboard education resources. 💳
+- [BLAUWASSER Seminars](https://www.blauwasser.de/praxiswissen/seminare) - German offshore, cruising, and owner-focused seminars. 🇩🇪
+- [Jojo Akademie](https://www.jojo-wassersport.de/akademie/) - German sailing education offering with practical course material. 🇩🇪
 
 ## Racing Rules of Sailing (RRS)
 
@@ -40,6 +45,12 @@ The list is intentionally being published in stages: the foundation sections bel
 - [PredictWind Weather Routing](https://www.predictwind.com/features/weather-routing) - Weather-routing and departure-planning tools for passage decisions. 💳
 - [Windy](https://www.windy.com/) - Fast weather visualization for route planning.
 - [XyGrib](https://opengribs.org/en/) - Free GRIB viewer with sailing relevance.
+- [Turkish State Meteorological Service: Daily Marine Forecast](https://www.mgm.gov.tr/eng/marine-daily-report.aspx) - Official marine forecast for Turkish coasts. 🇹🇷
+- [Turkish State Meteorological Service: 24 Hours Marine Forecast](https://www.mgm.gov.tr/eng/marine-24hours.aspx) - Official short-term marine forecast for Turkish coasts. 🇹🇷
+- [AEMET Marine Forecast](https://www.aemet.es/en/eltiempo/prediccion/maritima) - Official marine forecast from Spain's national weather agency. 🇪🇸
+- [Meteo Trentino wind meteogram](https://contenuti.meteotrentino.it/dati-meteo/meteogrammi/vento_N) - Useful Lake Garda wind reference for planning and racing. 🇮🇹
+- [gardasee-wind.info forecasts](https://gardasee-wind.info/forecasts/) - Focused forecast site for Lake Garda sailing conditions. 🇮🇹
+- [GardaWind](https://gardawind.eu) - Focused Garda wind and planning reference. 🇮🇹
 
 ## Safety
 
@@ -70,7 +81,7 @@ The list is intentionally being published in stages: the foundation sections bel
 
 ## Cruising guides
 
-Guides: [Germany](docs/cruising-guides/germany.md) for Germany-focused sailing and cruising references, [Croatia](docs/cruising-guides/croatia.md) for one of Europe's busiest charter destinations, [Greece](docs/cruising-guides/greece.md) for Ionian and Aegean trip planning, and [All cruising guides](docs/cruising-guides/README.md) for the index.
+Guides: [Germany](docs/cruising-guides/germany.md), [Croatia](docs/cruising-guides/croatia.md), [Greece](docs/cruising-guides/greece.md), [Italy](docs/cruising-guides/italy.md), [Turkey](docs/cruising-guides/turkey.md), [France](docs/cruising-guides/france.md), [Spain](docs/cruising-guides/spain.md), and [All cruising guides](docs/cruising-guides/README.md).
 
 ## Apps
 
@@ -79,6 +90,15 @@ Guides: [Germany](docs/cruising-guides/germany.md) for Germany-focused sailing a
 - [PredictWind app](https://www.predictwind.com/apps/predictwind-app) - Official app page for PredictWind's mobile and onboard weather tooling. 💳
 - [Windy about](https://www.windy.com/about) - Official overview of Windy's weather platform and app ecosystem.
 - [XyGrib downloads](https://opengribs.org/en/downloads) - Official downloads page for the free GRIB viewer.
+- [Vakaros RaceSense](https://vakaros.com/en-eu/pages/racesense) - Race management and starting-tech platform used in modern one-design fleets. 💳
+- [TracTrac](https://www.tractrac.com/) - Real-time event tracking used by race organizers and sailing leagues.
+- [Kwindoo](https://www.kwindoo.com/) - Tracking and replay platform for sailing events and group passages.
+- [SailReplay](https://www.sailreplay.com/download.html) - Track replay and analytics tool for regatta debriefs. 💳
+- [Regatta Hero](https://regattahero.com/) - GPS race tracking and replay platform for clubs and training fleets.
+- [Buoy Zone](https://www.buoy.zone/) - Race management platform with connected competitor tracking.
+- [Trace](https://www.trace.zone/) - Real-time tracking companion for on-water events.
+- [RaceTac](https://www.racetac.com/sailboard.htm) - Tactical sailing situations visualizer and learning tool.
+- [SailTalks](https://sailtalks.com/) - Sailing-specific learning and discussion platform.
 - [RRS Finckh](https://github.com/afds/rrs-finckh) - Open-source Racing Rules of Sailing review app.
 - [SAP Sailing Analytics](https://github.com/SAP/sailing-analytics) - Open-source analytics project behind SAP's public sailing archive.
 
