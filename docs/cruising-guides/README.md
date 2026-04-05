@@ -1,6 +1,6 @@
 # Cruising guides
 
-Concise practical cruising research pages for fast trip planning.
+Country and region guides for practical cruising research. These pages stay concise and link-focused.
 
 ## Germany
 

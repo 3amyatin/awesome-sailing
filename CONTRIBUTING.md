@@ -1,11 +1,15 @@
 # Contributing
 
-Use public sailing resources and keep annotations short and factual. Put the best resources first.
+## What belongs here
 
-Use English first. Flag non-English resources clearly.
+Public sailing resources, short factual annotations, best resources first, English-first with non-English resources flagged clearly, and paid resources marked with `💳`.
 
-Mark paid resources with `💳`.
+## What does not belong here
 
-Exclude private notes, internal docs, copyrighted mirrors, low-signal dumps, and marketing-heavy stale resources.
+Private notes, internal docs, copyrighted mirrors, low-signal dumps, and marketing-heavy stale resources.
+
+## Privacy rule
 
 Treat Obsidian, Google Drive, and Workflowy as research inputs only; do not publish or mirror private content from them.
+
+When in doubt, ask for approval before adding an item.
