@@ -22,14 +22,13 @@ The Netherlands is unusually strong for practical cruising research because offi
 - [Varen Doe Je Samen](https://www.varendoejesamen.nl/) - Good practical follow-up for bridges, locks, etiquette, and route-specific boating knowledge. 🇳🇱
 
 ## Charter and local operators
-- No strong charter directory is in the approved set for this guide, so start with the planning and port references above.
+- Start with the planning and port references above.
 
 ## Local apps and maps
 - [Waterkaart](https://waterkaart.net/) - Practical Dutch waterway and chart-planning reference. 🇳🇱
 - [Waddenhavens](https://waddenhavens.nl/en/) - Useful companion when planning stops around the Wadden area. 🇳🇱
 
 ## Reading and references
-- [Noonsite - Netherlands](https://www.noonsite.com/place/netherlands/) - Destination overview with practical cruising notes.
 - [Varen Doe Je Samen](https://www.varendoejesamen.nl/) - Useful practical reading once you move from general country planning into specific waterways. 🇳🇱
 
 Back to [Cruising guides](README.md).

@@ -4,7 +4,7 @@ Spain is still a lighter guide than Croatia or Italy, but it now has a better pr
 
 ## Overview
 - Use this page to get from national weather and port references into destination-specific planning.
-- The current wave is strongest on official Spain-wide sources plus a first Canary Islands layer.
+- The strongest links here are official Spain-wide sources plus a first Canary Islands layer.
 
 ## Official information
 - [Puertos del Estado](https://www.puertos.es/en) - National port-system entrypoint and maritime infrastructure overview. 🇪🇸
@@ -25,7 +25,6 @@ Spain is still a lighter guide than Croatia or Italy, but it now has a better pr
 - [Puertos del Estado AtoN status](https://portalaton.puertos.es/portalAton/facesanonimo/app/estadoServicio/lookup/estadoServicio.xhtml) - Official aids-to-navigation service status page. 🇪🇸
 
 ## Reading and references
-- [Noonsite - Spain](https://www.noonsite.com/place/spain/) - Country overview with practical cruising notes.
 - [Puertos del Estado](https://www.puertos.es/en) - Useful official reference when narrowing down port authorities and regions.
 
 Back to [Cruising guides](README.md).

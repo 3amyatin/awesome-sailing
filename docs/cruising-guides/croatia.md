@@ -31,7 +31,6 @@ Croatia is one of Europe's busiest charter and flotilla destinations, so this pa
 - [eNavtika Adriatic Guide](https://enavtika.si/en/adriatic-guide) - Useful route-planning reference with Adriatic POIs and place context.
 
 ## Reading and references
-- [Noonsite - Croatia](https://www.noonsite.com/place/croatia/) - Practical destination overview and entry notes.
 - [Croatia.hr Nautika PDF](https://www.htz.hr/sites/default/files/2023-09/Nautika%20-%20ENG.pdf) - Public nautical brochure with official background information.
 - [Croatia.hr nautical fee leaflet](https://croatia.hr/cmsmedia/Documents/Nautical/TP_za_nauticare/Novi_letak/HTZ-2022_letak_nautika-pristojba_QR%20code_EN.pdf) - Official leaflet for visitor fee and cruising paperwork context.
 - [BLAUWASSER Norddalmatien](https://www.blauwasser.de/reviere/norddalmatien-liegeplaetze) - German practical regional guide for northern Dalmatia. 🇩🇪

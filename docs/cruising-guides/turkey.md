@@ -4,10 +4,7 @@ Turkey is one of the strongest Eastern Mediterranean cruising grounds, so this p
 
 ## Overview
 - Use this page as a practical starting point for southwest Turkey rather than a full guide to every Turkish coast.
-- The current wave is strongest on weather, Gocek-area orientation, and basic entry/planning references.
-
-## Country overview
-- [Noonsite - Turkey](https://www.noonsite.com/place/turkey/) - Practical country overview with formalities, entry notes, and main-port context.
+- The strongest links here are weather, Gocek-area orientation, and basic entry-planning references.
 
 ## Ports and marinas
 - [D-Marin Gocek](https://www.d-marin.com/en/marinas/gocek) - Major marina base and useful reference for the Gocek area. 💳
@@ -19,7 +16,7 @@ Turkey is one of the strongest Eastern Mediterranean cruising grounds, so this p
 - [Turkish State Meteorological Service: 24 Hours Marine Forecast](https://www.mgm.gov.tr/eng/marine-24hours.aspx) - Official short-term marine forecast for Turkish coasts. 🇹🇷
 
 ## Rules and paperwork
-- [Noonsite - Turkey](https://www.noonsite.com/place/turkey/) - Best practical starting point in this wave for formalities and arrival context.
+- Verify entry, transit-log, and marina requirements before departure.
 
 ## Charter and local operators
 - [D-Marin Gocek](https://www.d-marin.com/en/marinas/gocek) - Strong practical base reference for marina services and the Gocek sailing area. 💳
@@ -30,7 +27,6 @@ Turkey is one of the strongest Eastern Mediterranean cruising grounds, so this p
 
 ## Reading and references
 - [BLAUWASSER Gulf of Fethiye](https://www.blauwasser.de/reviere/segeln-golf-fethiye-suedtuerkei) - German practical cruising guide for southwest Turkey. 🇩🇪
-- [Noonsite - Turkey](https://www.noonsite.com/place/turkey/) - Country overview with practical cruising notes and entry guidance.
 - [Deniz Turizm Birligi](https://denizturizmbirligi.org.tr/en/) - Useful Turkish marina-network reference for follow-up planning. 🇹🇷
 
 Back to [Cruising guides](README.md).

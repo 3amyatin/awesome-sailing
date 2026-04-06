@@ -7,7 +7,7 @@ It covers racing, cruising, offshore sailing, weather, apps, books, films, and c
 
 - [World Sailing](https://www.sailing.org/) - Global governing body with rules, classes, and offshore resources.
 - [RYA](https://www.rya.org.uk/) - Clear English-language entry point for learning, cruising, and racing.
-- [Noonsite](https://www.noonsite.com/) - Practical cruising information and paperwork guidance by destination.
+- [No Foreign Land](https://www.noforeignland.com/) - Cruising map and destination discovery tool built around voyaging community knowledge.
 - [OpenCPN](https://opencpn.org/) - Widely used open-source navigation software.
 - [PredictWind](https://www.predictwind.com/) - Strong weather and routing tool. 💳
 
@@ -21,6 +21,8 @@ It covers racing, cruising, offshore sailing, weather, apps, books, films, and c
 
 - [RYA courses and qualifications](https://www.rya.org.uk/training) - Major course and certification system with course finder. 🇬🇧
 - [DSV Segeln lernen](https://www.dsv.org/segeln/segeln-lernen/) - Learn-to-sail, schools, and licence guidance from Germany's sailing federation. 🇩🇪
+- [RYA Offshore Personal Survival Course](https://www.rya.org.uk/training/courses/Offshore-Personal-Survival-Course-%28RYA/World-Sailing%29-ORCC) - Core sea-survival course page used for offshore and race-prep training. 🇬🇧
+- [RYA Basic Sea Survival Certificate](https://www.rya.org.uk/training/courses/basic-sea-survival-certificate-bsscc) - Practical entry-level sea-survival training page. 🇬🇧
 - [World Sailing Race Officials Education](https://www.sailing.org/our-sport/race-officals/education/education-for-race-officers/) - Official education path for race management and officiating.
 - [Jon Emmett Sailing](https://jonemmettsailing.com/) - Coaching articles, extracts, and training resources from a top racing coach.
 - [Speed & Smarts](https://www.speedandsmarts.com/) - High-signal racing education, tactics, and rules material from Dave Perry.
@@ -61,12 +63,17 @@ It covers racing, cruising, offshore sailing, weather, apps, books, films, and c
 
 ## Safety
 
-- [MAIB reports](https://www.gov.uk/maib-reports) - Searchable accident investigation reports, including recreational sail incidents. 🇬🇧
 - [World Sailing Offshore Special Regulations](https://www.sailing.org/inside-world-sailing/rules-regulations/offshore-special-regulations/) - Official offshore safety baseline and related appendices.
+- [World Sailing incident investigation reports](https://www.sailing.org/inside-world-sailing/activities-services/technical-offshore/technical-services/technical-and-offshore-safety/incident-reporting/incident-investigation-reports/) - Official archive of sailing incident investigations and safety learnings.
+- [US Sailing Safety at Sea calendar](https://www1.ussailing.org/Calendar/Pf.aspx?gid=10) - Official seminar and certification calendar for offshore safety training.
+- [MAIB reports](https://www.gov.uk/maib-reports) - Searchable accident investigation reports, including recreational sail incidents. 🇬🇧
 - [RYA Seven Common Senses for Safe Sailing](https://www.rya.org.uk/water-safety/seven-common-senses/) - Practical on-water safety guidance from the RYA. 🇬🇧
+- [GOV.UK Safety at sea](https://www.gov.uk/owning-a-boat/safety-at-sea) - Practical UK government safety guidance for recreational boating and coastal passages. 🇬🇧
 
 ## Navigation
 
+- [NOAA U.S. Chart No. 1](https://nauticalcharts.noaa.gov/publications/us-chart-1.html) - Official reference for nautical chart symbols, abbreviations, and terms.
+- [IMO COLREG Convention](https://www.imo.org/en/About/Conventions/Pages/COLREG.aspx) - Official overview of the collision-regulations convention that underpins navigation rules worldwide.
 - [OpenCPN downloads](https://opencpn.org/OpenCPN/info/downloadopencpn.html) - Official downloads and install page for the open-source chartplotter.
 - [Signal K](https://signalk.org/) - Open marine data standard and server ecosystem.
 - [Garmin Navionics marine cartography](https://www.garmin.com/en-US/c/marine-cartography/third-party-marine-maps/) - Popular marine charts and route-planning platform. 💳
@@ -84,19 +91,33 @@ It covers racing, cruising, offshore sailing, weather, apps, books, films, and c
 ## Offshore
 
 - [Royal Ocean Racing Club](https://www.rorc.org/) - Major European offshore racing club with race programme and notices.
+- [World Cruising Club](https://worldcruising.com/) - Main offshore-rally ecosystem behind ARC and other long-distance cruising events.
+- [Atlantic Rally for Cruisers (ARC)](https://worldcruising.com/arc/event.aspx) - Flagship Atlantic rally and one of the most important offshore entry points for cruising crews. 💳
+- [World ARC](https://worldcruising.com/events/world-arc) - Structured round-the-world rally for long-distance cruising crews. 💳
+- [ARC Portugal](https://worldcruising.com/arc_portugal/event.aspx) - Offshore rally linking Portugal and the Canaries into the Atlantic crossing circuit. 💳
 - [World Sailing Speed Record Council](https://www.sailspeedrecords.com/) - Official record authority and offshore record archive.
 
 ## Cruising guides
 
-Guides: [Germany](docs/cruising-guides/germany.md), [Netherlands](docs/cruising-guides/netherlands.md), [Croatia](docs/cruising-guides/croatia.md), [Greece](docs/cruising-guides/greece.md), [Italy](docs/cruising-guides/italy.md), [Turkey](docs/cruising-guides/turkey.md), [France](docs/cruising-guides/france.md), [Spain](docs/cruising-guides/spain.md), and [All cruising guides](docs/cruising-guides/README.md).
+See [Cruising guides](docs/cruising-guides/README.md) for country pages covering Germany, Netherlands, United Kingdom, France, Spain, Portugal, Italy, Croatia, Montenegro, Greece, and Turkey.
 
 ## Apps
 
 - [OpenCPN plugins](https://opencpn.org/OpenCPN/info/downloadplugins.html) - Official plugin directory for extending the open-source chartplotter.
 - [Signal K overview](https://signalk.org/overview/) - Official overview of the open marine data platform and server ecosystem.
 - [PredictWind app](https://www.predictwind.com/apps/predictwind-app) - Official app page for PredictWind's mobile and onboard weather tooling. 💳
+- [Expedition Marine](https://expeditionmarine.com/) - High-end offshore navigation and performance software used in top-level racing. 💳
+- [qtVlm](https://meltemus.com/) - Free offshore-routing and navigation software with GRIB, AIS, and instrument integration.
+- [LuckGrib](https://luckgrib.com/) - Mac and iOS weather-routing and GRIB-planning tool. 💳
+- [Weather4D](http://weather4d.com) - Offshore-oriented routing and weather app. 💳
+- [Squid Sailing](https://www.squid-sailing.com/) - Multi-platform sailing weather and routing app.
+- [SailGrib](http://sailgrib.com) - Android-focused routing and marine weather app.
 - [Windy about](https://www.windy.com/about) - Official overview of Windy's weather platform and app ecosystem.
 - [XyGrib downloads](https://opengribs.org/en/downloads) - Official downloads page for the free GRIB viewer.
+- [Aqua Map](https://www.aquamap.app/) - Navigation app with marine charts and route-planning features.
+- [Orca](https://getorca.com/) - Modern charting and route-planning app for recreational boaters.
+- [iNavX](https://inavx.com/) - Established marine charting and navigation app.
+- [savvy navvy](https://www.savvy-navvy.com/) - Popular route-planning and charting app with broad cruising adoption. 💳
 - [Sailwave](https://www.sailwave.com/) - Widely used desktop scoring software for clubs and race organizers.
 - [YachtScoring](https://www.yachtscoring.com/) - Registration, notices, and scoring platform used by many racing fleets.
 - [Regatta Network](https://www.regattanetwork.com/) - Event registration, noticeboard, and results platform used by many clubs.

@@ -1,13 +1,10 @@
 # Italy
 
-Italy works best here as a practical cruising-reference page: regional overviews, Mediterranean destination guides, and Lake Garda weather where it adds real value.
+Italy is best approached as a practical cruising-reference page: regional overviews, Mediterranean destination guides, and Lake Garda weather where it adds real value.
 
 ## Overview
 - Use this page as a first pass for cruising in Italy rather than a full coast-by-coast pilot guide.
 - The strongest links in this wave cover Amalfi, Elba, the Aeolian Islands, Sardinia, and Lake Garda.
-
-## Country overview
-- [Noonsite - Italy](https://www.noonsite.com/place/italy/) - Practical country overview with formalities, ports, and cruising notes.
 
 ## Ports and marinas
 - [Assomarinas](https://assomarinas.it/) - Italian marina network and useful starting point for marina research. 🇮🇹
@@ -19,7 +16,7 @@ Italy works best here as a practical cruising-reference page: regional overviews
 - [GardaWind](https://gardawind.eu) - Focused Garda wind and planning reference. 🇮🇹
 
 ## Rules and paperwork
-- [Noonsite - Italy](https://www.noonsite.com/place/italy/) - Best practical starting point in this wave for formalities and arrival context.
+- Verify local entry, marina, and protected-area rules before departure, especially when moving between regions.
 
 ## Charter and local operators
 - [Sailogy: Visiting the Amalfi Coast by boat](https://www.sailogy.com/blog/visiting-the-amalfi-coast-by-boat) - Practical destination guide from a major charter platform. 💳
@@ -32,7 +29,6 @@ Italy works best here as a practical cruising-reference page: regional overviews
 - [gardasee-wind.info forecasts](https://gardasee-wind.info/forecasts/) - Another practical companion for Garda wind and racing conditions. 🇮🇹
 
 ## Reading and references
-- [Noonsite - Italy](https://www.noonsite.com/place/italy/) - Country overview with practical cruising notes and port context.
 - [Sailogy: Elba shores not to miss](https://www.sailogy.com/blog/top-elba-shores-not-to-miss) - Starter resource for Tuscany and Elba route ideas. 💳
 - [BLAUWASSER Italy overview](https://www.blauwasser.de/reviere/segeln-chartern-italien-revierueberblick) - German overview of Italian sailing regions and charter grounds. 🇩🇪
 

@@ -23,7 +23,7 @@ France is broad, so this page starts weather-first and notice-first: marine fore
 - [SHOM navigational warnings](https://diffusion.shom.fr/gan-et-avertissements-de-navigation.html) - Useful official bookmark for checking nautical notices.
 
 ## Reading and references
-- [Noonsite - France](https://www.noonsite.com/place/france-2/) - Country overview with practical cruising notes.
 - [SHOM port information](https://diffusion.shom.fr/informations-portuaires.html) - Useful official reference for port and notice research.
+- [Meteo-France Marine Guide 2025](https://meteofrance.fr/sites/default/files/files/editorial/Guide%20MARINE%202025.pdf) - Good background guide to France's marine forecast products. 🇫🇷
 
 Back to [Cruising guides](README.md).
